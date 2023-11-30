@@ -1,4 +1,4 @@
-# recurrent-neural-network
+# RNN
 
 * Recurrent Neural Network for Bitcoin Price Prediction | Principles of Computational Intelligence
   * Trained RNN with stochastic gradient descent optimizer algorithm & mean squared error as loss value for BTC-USD price prediction
